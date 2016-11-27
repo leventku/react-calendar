@@ -1,7 +1,10 @@
-TO START THE APP:
-* $ npm install
-* $ npm start
-* navigate to http://localhost:3000/ in a browser
+# TO START THE APP:
+
+* $ *npm install*
+* $ *npm start*
+* navigate to *http://localhost:3000/* in a browser
+
+==================================================
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
